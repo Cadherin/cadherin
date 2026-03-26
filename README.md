@@ -1,6 +1,6 @@
 ## Hi there! I'm Frances 👋
 
-Thanks for stopping by Github. You have entered my sandbox zone.
+Thanks for stopping by Github. You have entered my coding sandbox.
 
 ### 👩🏻‍🔬 Who am I
 
